@@ -1,3 +1,4 @@
-Welcom to First Fadly's Rep
+Welcome to First Fadly's Rep
 
 import numpy as np
+z =  a + b;
