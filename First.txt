@@ -1,0 +1,3 @@
+Welcom to First Fadly's Rep
+
+import numpy as np
